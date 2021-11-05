@@ -3,7 +3,7 @@
 A website that uses [News API](https://newsapi.org/) to get you started on daily news.
 Plans to extend with other useful APIs are in order.
 
-- ![image](public\video\showcase.gif)
+<img src="public\video\showcase.gif">
 
 ### About the project
 
