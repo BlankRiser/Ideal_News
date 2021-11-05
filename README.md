@@ -3,6 +3,8 @@
 A website that uses [News API](https://newsapi.org/) to get you started on daily news.
 Plans to extend with other useful APIs are in order.
 
+- ![image](public\video\showcase.gif)
+
 ### About the project
 
 I have been using various RSS feeds that aggregate news articles from various sources like [Feedly](https://feedly.com/), [Panda](https://app.usepanda.com/) and wanted to create a web app that does the same but also gives me the flexibilty to customize the layout and eventually keep adding on other functionalities. Some of the features that I would like to add are:
@@ -10,7 +12,8 @@ I have been using various RSS feeds that aggregate news articles from various so
 - [x] Add a search bar to search for news articles
 - [x] Select news source from a few countries of my choosing (e.g. India, USA, UK, etc.)
 - [ ] Add a news source selection bar to select from a list of news sources
-- [ ]
+- [ ] Add a new page to only display crypto and stock news and their growth charts
+-
 
 ### Instructions to Install
 
